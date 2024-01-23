@@ -1,2 +1,5 @@
-# neovim config 
-requires git clone from treesitter & telescope
+# Neovim Config 
+## Requirements 
+- Clone treesitter & telescope
+- Rust for HTMX
+
